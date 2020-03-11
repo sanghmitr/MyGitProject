@@ -1,0 +1,4 @@
+class Myclass
+{
+	sysout("hello git");
+}
